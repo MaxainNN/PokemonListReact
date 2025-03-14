@@ -1,5 +1,0 @@
-WebstormProjects\TestProject\my-react-app - for terminal
-npm run dev - command to start project on localhost
-
-API reference:
-https://pokeapi.co/
